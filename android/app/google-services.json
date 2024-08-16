@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "398400091856",
+    "project_id": "wemotion-a87ac",
+    "storage_bucket": "wemotion-a87ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398400091856:android:c42e7f21c5927894c910d5",
+        "android_client_info": {
+          "package_name": "com.appsrandom.flutter_we_motion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398400091856-dklr4tpvgbhib43v5msd1auqfak6gg37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsrandom.flutter_we_motion",
+            "certificate_hash": "01f660f1cb39c433e51b1d9140fcdf1edc5d37f0"
+          }
+        },
+        {
+          "client_id": "398400091856-9ubg105cbblagkfrt38chaeehsr0phv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOS7DOWaM-06AEjn-SZ1CjmxkqOBK6Z8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398400091856-9ubg105cbblagkfrt38chaeehsr0phv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398400091856-q1hinufcl1nmkd3gcvnjdfb07u96vgrl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsrandom.flutterWeMotion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
